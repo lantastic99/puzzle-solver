@@ -1,0 +1,6 @@
+// includes global variables, function prototypes, etc.
+
+
+
+int sum(int a, int b);
+

@@ -1,0 +1,14 @@
+//includes main function that runs program.
+#include "flip-side.h"
+#include <iostream>
+
+using namespace std;
+
+int main(){
+
+  int a=4,b=9;
+  cout << sum(a,b) << endl;
+    
+  
+  return 0; 
+}

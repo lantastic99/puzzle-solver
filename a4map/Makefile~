@@ -1,0 +1,5 @@
+$(CC) = g++
+flip-side:
+	$(CC) flip-side.cc flip-side.h -o flip-side
+clean:
+	rm *.o flip-side

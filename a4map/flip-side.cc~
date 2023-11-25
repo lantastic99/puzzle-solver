@@ -1,0 +1,6 @@
+// contains function implementations and actual data for funciton.
+
+#include "flip-side.h"
+
+int sum(int a,int b)
+{ return a+b; }
